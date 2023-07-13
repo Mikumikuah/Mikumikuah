@@ -9,7 +9,7 @@ I'm Muhammad Iqbal Pasha Al Farabi from Indonesia 👀
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Laravel 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on team
 - 💬 Ask me about anything
 
 Languages and Tools:
