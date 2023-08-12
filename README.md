@@ -1,4 +1,4 @@
-## Hi there, I’m @mikuah 👋
+## Hi there, I’m @pasha👋
 
 - 🌱 I’m currently learning reactjs
 - 🤝 I’m looking to collaborate on team
